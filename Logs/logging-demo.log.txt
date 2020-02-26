@@ -1,0 +1,6 @@
+2020-02-26 21:40:08,219 main ERROR HTMLLayout contains an invalid element or attribute "pattern"
+2020-02-26 21:40:08 ERROR Application:17 - Press 1 to calculate simple & compound interest:
+
+2020-02-26 21:40:08 ERROR Application:18 - Press 2 to estimate house construction cost:
+
+2020-02-26 21:40:08 ERROR Application:19 - Enter your choice : 
